@@ -1,0 +1,6 @@
+/checkpoints/*.pt
+!/checkpoints/
+
+/dataset/data/*
+
+/PDF
