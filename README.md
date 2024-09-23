@@ -34,7 +34,7 @@ Diffusion模型的训练可以分为两个部分：
 
 UNet结构
 
-<img src="./figure/unet1.png" alt="Sample Image" width=90%>
+<img src="./figure/unet.png" alt="Sample Image" width=90%>
 
 本次复现采用的结构
 
